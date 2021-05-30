@@ -29,7 +29,7 @@
 </p>
 
 <!-- GitHub stats -->  
-<b align="center">⚡ My Development Statistics</b>
+<h3 align="center"><b>⚡ My Development Statistics</b></h3>
 
 <p align="center">  
 <!-- GitHub Stats -->  
