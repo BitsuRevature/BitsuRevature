@@ -27,16 +27,17 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</p>
 
 <!-- Github Stats -->
 <b>Developer Statistics</b>
 
 <p>
 <!-- Github Stats -->
-<img width = "1fr" src="https://github-readme-stats.vercel.app/api?username=bitsuamamo&show_icons=true&locale=en" alt="bitsuamamo" />
+<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=bitsuamamo&show_icons=true&locale=en" alt="bitsuamamo" />
 
 <!-- Github Most Used Language -->
-<img width = "1fr" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitsuamamo&show_icons=true&locale=en&layout=compact" alt="bitsuamamo" />
+<img height = "180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitsuamamo&show_icons=true&locale=en&layout=compact" alt="bitsuamamo" />
 
 </p>
