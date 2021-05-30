@@ -10,11 +10,15 @@
 
 - 📫 How to reach me **BitsuA.Mamo@gmail.com**
 
+<!-- Conatct Me -->
+
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
 
-<a href="https://linkedin.com/in/bitsu-mamo" target="blank"><img align="center" src="https://github.com/BitsuAMamo/BitsuAMamo/blob/main/assets/linkedin.svg" alt="bitsu-mamo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bitsu-mamo-55a24b194" target="blank"><img align="center" src="https://github.com/BitsuAMamo/BitsuAMamo/blob/main/assets/linkedin.svg" alt="bitsu-mamo" height="30" width="40" /></a>
 <a href="https://instagram.com/mrhappy985" target="blank"><img align="center" src="https://github.com/BitsuAMamo/BitsuAMamo/blob/main/assets/instagram.svg" alt="mrhappy985" height="30" width="40" /></a>
+
 </p>
 
 <!-- Langauges -->
@@ -30,9 +34,9 @@
 
 <p>
 <!-- Github Stats -->
-<img width = "180em" src="https://github-readme-stats.vercel.app/api?username=bitsuamamo&show_icons=true&locale=en" alt="bitsuamamo" />
+<img width = "1fr" src="https://github-readme-stats.vercel.app/api?username=bitsuamamo&show_icons=true&locale=en" alt="bitsuamamo" />
 
 <!-- Github Most Used Language -->
-<img width = "180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitsuamamo&show_icons=true&locale=en&layout=compact" alt="bitsuamamo" />
+<img width = "1fr" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitsuamamo&show_icons=true&locale=en&layout=compact" alt="bitsuamamo" />
 
 </p>
