@@ -33,7 +33,9 @@
 
 <p align="center">  
 <!-- GitHub Stats -->  
-    <img height="180em" width = "50%" src="https://github-readme-stats.vercel.app/api?username=bitsuamamo&show_icons=true&hide_border=true" />
+    <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api?username=bitsuamamo&show_icons=true&hide_border=true" />
 <!-- Most Used Languages -->  
-    <img height="180em" width = "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitsuamamo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+    <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitsuamamo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
 </p>  
+
+<!-- Icons From IconScout -->
