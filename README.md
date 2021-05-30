@@ -28,13 +28,13 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<!-- Github Stats -->
-<b>Developer Statistics</b>
+<!-- GitHub stats -->  
+<b>⚡ My Dev Statistics</b>
 
-<p>
-<!-- Github Stats -->
-<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=bitsuamamo&show_icons=true&locale=en" alt="bitsuamamo" style="max-width:100%" />
+<p>  
+<!-- GitHub Stats -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bitsuamamo&show_icons=true&hide_border=true" />
 
-<!-- Github Most Used Language -->
-<img height = "180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitsuamamo&show_icons=true&locale=en&layout=compact" alt="bitsuamamo" style="max-width:100%" />
-</p>
+<!-- Most Used Languages -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitsuamamo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+</p>  
