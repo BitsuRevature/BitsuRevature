@@ -1,4 +1,8 @@
-### Hi there 👋
+<!-- Welcome Message -->
+<h2> Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px"><h2>
+
+<h3>Glad you are here. This is my Github profile!</h3>
+<!---### Hi there 👋-->
 
 <!--
 **BitsuAMamo/BitsuAMamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
