@@ -29,12 +29,11 @@
 </p>
 
 <!-- GitHub stats -->  
-<b>⚡ My Dev Statistics</b>
+<b>⚡ My Development Statistics</b>
 
 <p>  
 <!-- GitHub Stats -->  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bitsuamamo&show_icons=true&hide_border=true" />
-
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bitsuamamo&show_icons=true&hide_border=true" />
 <!-- Most Used Languages -->  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitsuamamo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitsuamamo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
 </p>  
