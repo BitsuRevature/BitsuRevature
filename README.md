@@ -31,7 +31,7 @@
 <!-- GitHub stats -->  
 <b>⚡ My Development Statistics</b>
 
-<p>  
+<p align="center">  
 <!-- GitHub Stats -->  
     <img height="180em" width = "50%" src="https://github-readme-stats.vercel.app/api?username=bitsuamamo&show_icons=true&hide_border=true" />
 <!-- Most Used Languages -->  
