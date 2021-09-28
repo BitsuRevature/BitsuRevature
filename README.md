@@ -6,7 +6,7 @@
 <!-- About Me -->
 <h3 align="center">I am a currently pursuing a Bachelor's in Computer Science from HiLCoE school of Computer Science. I am an active learner who is continually passionate in learning new technologies and avid in working in them.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/BitsuAMamo?tab=repositories](https://github.com/BitsuAMamo?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/bitsumamo?tab=repositories](https://github.com/bitsumamo?tab=repositories)
 
 - 📫 How to reach me **BitsuA.Mamo@gmail.com**
 
@@ -15,8 +15,8 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-    <a href="https://linkedin.com/in/bitsu-mamo-55a24b194" target="blank"><img align="center" src="https://github.com/BitsuAMamo/BitsuAMamo/blob/main/assets/linkedin.svg" alt="bitsu-mamo" height="30" width="40" /></a>
-    <a href="https://instagram.com/mrhappy985" target="blank"><img align="center" src="https://github.com/BitsuAMamo/BitsuAMamo/blob/main/assets/instagram.svg" alt="mrhappy985" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/bitsu-mamo-55a24b194" target="blank"><img align="center" src="https://github.com/bitsumamo/bitsumamo/blob/main/assets/linkedin.svg" alt="bitsu-mamo" height="30" width="40" /></a>
+    <a href="https://instagram.com/mrhappy985" target="blank"><img align="center" src="https://github.com/bitsumamo/bitsumamo/blob/main/assets/instagram.svg" alt="mrhappy985" height="30" width="40" /></a>
 </p>
 
 <!-- Langauges -->
@@ -33,9 +33,9 @@
 
 <p align="center">  
 <!-- GitHub Stats -->  
-    <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api?username=bitsuamamo&show_icons=true&hide_border=true" />
+    <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api?username=bitsumamo&show_icons=true&hide_border=true" />
 <!-- Most Used Languages -->  
-    <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitsuamamo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+    <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitsumamo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
 </p>  
 
 <!-- Icons From IconScout -->
