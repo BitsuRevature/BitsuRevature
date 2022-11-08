@@ -4,7 +4,14 @@
 <h2>Glad you are here. This is my Github profile!</h2>
 
 <!-- About Me -->
-<h3 align="center">I am a currently pursuing a Bachelor's in Computer Science from HiLCoE school of Computer Science. I am an active learner who is continually passionate in learning new technologies and avid in working in them.</h3>
+<h3 align="center">I am a Software Engineer that is passionate about building remarkable Software.
+</h3>
+<h3 align="center">
+I have been programming since 2018. Over these years, I have gained exceptional knowledge in my area of expertise. I am a quick learner and a team player; I like creating close working relationships with my teammates and accommodating their needs for a greater connection.
+</h3>
+<h3 align="center">
+I believe I have a great work ethic that helps me fulfill my employer's needs and maintain excellent company-client relations. I love reaching the completion stage of every project I start or continue.
+</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/bitsumamo?tab=repositories](https://github.com/bitsumamo?tab=repositories)
 
