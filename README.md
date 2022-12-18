@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px">, I'm Bitsu Mamo</h1>
 
-# 💫 About Me:
-
 <h2>Glad you are here. This is my Github profile!</h2>
 
 
@@ -25,10 +23,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
 [![](https://visitcount.itsvg.in/api?id=bitsumamo&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
