@@ -1,52 +1,34 @@
-<!-- Welcome Message  -->
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px">, I'm Bitsu Mamo</h1>
+
+# 💫 About Me:
 
 <h2>Glad you are here. This is my Github profile!</h2>
 
-<!-- About Me -->
-<h3 align="center">I am a Software Engineer that is passionate about building remarkable Software.
-</h3>
-<h3 align="center">
-I have been programming since 2018. Over these years, I have gained exceptional knowledge in my area of expertise. I am a quick learner and a team player; I like creating close working relationships with my teammates and accommodating their needs for a greater connection.
-</h3>
-<h3 align="center">
-I believe I have a great work ethic that helps me fulfill my employer's needs and maintain excellent company-client relations. I love reaching the completion stage of every project I start or continue.
-</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/bitsumamo?tab=repositories](https://github.com/bitsumamo?tab=repositories)
+<p>This is my GitHub profile!<br>I am a Software Engineer that is passionate about building remarkable Software.<br>I have been programming since 2018. Over these years, I have gained exceptional knowledge in my area of expertise. I am a quick learner and a team player; I like creating close working relationships with my teammates and accommodating their needs for a greater connection.<br>I believe I have a great work ethic that helps me fulfill my employer's needs and maintain excellent company-client relations. I love reaching the completion stage of every project I start or continue.</p>
 
-- 📫 How to reach me **BitsuA.Mamo@gmail.com**
 
-<!-- Conatct Me -->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/mrhappy985) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/bitsu-mamo-55a24b194) 
 
-<h3 align="center">Connect with me:</h3>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bitsumamo&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=bitsumamo&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bitsumamo&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<p align="center">
-    <a href="https://linkedin.com/in/bitsu-mamo-55a24b194" target="blank"><img align="center" src="https://github.com/bitsumamo/bitsumamo/blob/main/assets/linkedin.svg" alt="bitsu-mamo" height="30" width="40" /></a>
-    <a href="https://instagram.com/mrhappy985" target="blank"><img align="center" src="https://github.com/bitsumamo/bitsumamo/blob/main/assets/instagram.svg" alt="mrhappy985" height="30" width="40" /></a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bitsumamo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Langauges -->
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<!-- GitHub stats -->  
-<h3 align="center"><b>⚡ My Development Statistics</b></h3>
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<p align="center">  
-<!-- GitHub Stats -->  
-    <!-- <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api?username=bitsumamo&show_icons=true&hide_border=true" /> -->
-    <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitsumamo&layout=compact&theme=radical" />
-    <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=bitsumamo&layout=compact&theme=radical -->
-<!-- Most Used Languages -->  
-    <!-- <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitsumamo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
-    <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api?username=bitsumamo&layout=compact&theme=radical"/>
-    <!-- https://github-readme-stats.vercel.app/api?username=bitsumamo&layout=compact&theme=radical -->
-</p>  
+---
+[![](https://visitcount.itsvg.in/api?id=bitsumamo&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Icons From IconScout -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
