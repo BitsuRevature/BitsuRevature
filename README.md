@@ -34,7 +34,7 @@
 </div>
 
 
-# 💻 Tech Stack:
+<p align="center">Technologies</p>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
