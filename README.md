@@ -1,4 +1,4 @@
-![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNxcXlpdW1iYWFkbmY4MzljdGNneDBha2hhemZlMWt4OHp0anFyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+<div width="100%">![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNxcXlpdW1iYWFkbmY4MzljdGNneDBha2hhemZlMWt4OHp0anFyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)</div>
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px">, I'm Bitsu Mamo</h1>
