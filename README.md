@@ -34,7 +34,7 @@
 </div>
 
 
-<p align="center">Technologies</p>
+<h2 align="center">Technologies</h2>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
