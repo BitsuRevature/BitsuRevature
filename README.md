@@ -1,10 +1,16 @@
+![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNxcXlpdW1iYWFkbmY4MzljdGNneDBha2hhemZlMWt4OHp0anFyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px">, I'm Bitsu Mamo</h1>
 
-<h2>Glad you are here. This is my Github profile!</h2>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<div align="left">
+  <h2>Glad you are here. This is my Github profile!</h2>
 
 
-<p>This is my GitHub profile!<br>I am a Software Engineer that is passionate about building remarkable Software.<br>I have been programming since 2018. Over these years, I have gained exceptional knowledge in my area of expertise. I am a quick learner and a team player; I like creating close working relationships with my teammates and accommodating their needs for a greater connection.<br>I believe I have a great work ethic that helps me fulfill my employer's needs and maintain excellent company-client relations. I love reaching the completion stage of every project I start or continue.</p>
+  <p>This is my GitHub profile!<br>I am a Software Engineer that is passionate about building remarkable Software.<br>I have been programming since 2018. Over these years, I have gained exceptional knowledge in my area of expertise. I am a quick learner and a team player; I like creating close working relationships with my teammates and accommodating their needs for a greater connection.<br>I believe I have a great work ethic that helps me fulfill my employer's needs and maintain excellent company-client relations. I love reaching the completion stage of every project I start or continue.</p>
+</div>
 
 
 ## 🌐 Socials:
