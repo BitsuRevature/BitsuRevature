@@ -82,9 +82,9 @@
     </a>
 </div>
 <!--- trophy (start) -->
-
+<!-- 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
 
 [![](https://visitcount.itsvg.in/api?id=bitsumamo&icon=0&color=11)](https://visitcount.itsvg.in)
 
