@@ -1,4 +1,4 @@
-<div width="100%">![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNxcXlpdW1iYWFkbmY4MzljdGNneDBha2hhemZlMWt4OHp0anFyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)</div>
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px">, I'm Bitsu Mamo</h1>
@@ -20,7 +20,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,flutter,php,bootstrap,c,cpp,css,tailwind,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,redis,postman,py,react,redux,tailwind,ts,vscode,blender,jquery,wordpress,figma,go,ruby,qt&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,flutter,java,bootstrap,c,cpp,css,tailwind,docker,spring,express,figma,sqlite,github,html,idea,prisma,js,rust,linux,md,lua,mongodb,mysql,vim,neovim,postman,py,react,redux,tailwind,ts,vscode,jquery,wordpress,go&perline=6" />
   </a>
 </p>
 
