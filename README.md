@@ -88,11 +88,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=bitsumamo&style=for-the-badge) -->
-
+</p>  
 <div align=center>
   <img align="center" src="https://komarev.com/ghpvc/?username=bitsumamo&style=for-the-badge"/>
-</div>
-</p>        
+</div>      
 <!--- stats (end) -->
 
 <!-- ## 🏆 GitHub Trophies
