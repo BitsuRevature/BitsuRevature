@@ -49,11 +49,6 @@
   <br/>
 </samp>
 
-<!-- # 📊 GitHub Stats: -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=bitsumamo&theme=dark&hide_border=true&include_all_commits=false&count_private=true) -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=bitsumamo&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bitsumamo&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -82,21 +77,11 @@
     </a>
   
 </div>
-<!--- trophy (start) -->
-<!-- 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
 
-<!-- ![](https://komarev.com/ghpvc/?username=bitsumamo&style=for-the-badge) -->
 </p>  
+
 <div align=center>
-  <img align="center" src="https://komarev.com/ghpvc/?username=bitsumamo&style=for-the-badge"/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=bitsumamo&label=Profile%20Views&color=12&icon=5&pretty=true" />
+  </a>
 </div>      
-<!--- stats (end) -->
-
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bitsumamo&theme=radical&no-frame=true&no-bg=false&margin-w=4) -->
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
