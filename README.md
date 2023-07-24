@@ -87,8 +87,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
 
-[![](https://visitcount.itsvg.in/api?id=bitsumamo&icon=0&color=11)](https://visitcount.itsvg.in)
+<!-- ![](https://komarev.com/ghpvc/?username=bitsumamo&style=for-the-badge) -->
 
+<div align=center>
+  <img align="center" src="https://komarev.com/ghpvc/?username=bitsumamo&style=for-the-badge"/>
+</div>
 </p>        
 <!--- stats (end) -->
 
