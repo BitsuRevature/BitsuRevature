@@ -1,7 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px">, I'm Bitsu Mamo</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px">, I'm Bitsu</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -9,12 +9,12 @@
   <h2>Glad you are here. This is my Github profile!</h2>
 
 
-  <p>This is my GitHub profile!<br>I am a Software Engineer that is passionate about building remarkable Software.<br>I have been programming since 2018. Over these years, I have gained exceptional knowledge in my area of expertise. I am a quick learner and a team player; I like creating close working relationships with my teammates and accommodating their needs for a greater connection.<br>I believe I have a great work ethic that helps me fulfill my employer's needs and maintain excellent company-client relations. I love reaching the completion stage of every project I start or continue.</p>
+  <p style="text-align: justify;">I am a Software Engineer that is passionate about building remarkable Software.<br>I have been programming since 2019. Over these years, I have gained exceptional knowledge in my area of expertise. I am a quick learner and a team player; I like creating close working relationships with my teammates and accommodating their needs for a greater connection.<br>I believe I have a great work ethic that helps me fulfill my employer's needs and maintain excellent company-client relations. I love reaching the completion stage of every project I start and/or continue.</p>
 </div>
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" />
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div align="center">
@@ -27,9 +27,9 @@
   <!--icons and links-->
   <p align="center">
     <a href="https://www.linkedin.com/in/bitsumamo/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-    <a href="https://www.instagram.com/mrhappy985/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+    <!-- <a href="https://www.instagram.com/mrhappy985/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
     <a href="https://t.me/MrHappy985" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="hashnode" height="50" width="50" /></a>
-    
+     -->
   </p>
 </div>
 
