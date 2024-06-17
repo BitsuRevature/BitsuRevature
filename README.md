@@ -3,7 +3,6 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px">, I'm Bitsu</h1>
 
-
 <div>
   <h2>Glad you are here. This is my Github profile!</h2>
   <div>
