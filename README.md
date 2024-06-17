@@ -25,13 +25,15 @@
 <!-- TODO
   Change technologies layuout
 -->
-<h2 align="center">Technologies</h2>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,flutter,java,bootstrap,c,cpp,css,tailwind,docker,spring,express,figma,sqlite,github,html,idea,prisma,js,rust,linux,md,lua,mongodb,mysql,vim,neovim,postman,py,react,redux,tailwind,ts,vscode,jquery,wordpress,go&perline=6" />
-  </a>
-</p>
+<div>
+  <h2 align="center">Technologies</h2>
+  <!--tech stack icons-->
+  <p width="100%">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,flutter,java,bootstrap,c,cpp,css,tailwind,docker,spring,express,figma,sqlite,github,html,idea,prisma,js,rust,linux,md,lua,mongodb,mysql,vim,neovim,postman,py,react,redux,tailwind,ts,vscode,jquery,wordpress,go" />
+    </a>
+  </p>
+<div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
