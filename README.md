@@ -14,9 +14,6 @@
   <p style="text-align: left;">I am a Software Engineer that is passionate about building remarkable Software.<br>I have been programming since 2019. Over these years, I have gained exceptional knowledge in my area of expertise. I am a quick learner and a team player; I like creating close working relationships with my teammates and accommodating their needs for a greater connection.<br>I believe I have a great work ethic that helps me fulfill my employer's needs and maintain excellent company-client relations. I love reaching the completion stage of every project I start and/or continue.</p>
 </div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div align="center">
