@@ -6,11 +6,11 @@
 <div>
   <h2>Glad you are here. This is my Github profile!</h2>
   <div>
-    <div align="left" width="49%">
+    <div width="49%">
       <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
     <div>
-    <div align="right" width="49%">
-      <p style="text-align: left;">
+    <div aligh="left" width="49%">
+      <p>
         I am a Software Engineer that is passionate about building remarkable Software.<br>I have been programming since 2019. Over these years, I have gained exceptional knowledge in my area of expertise. I am a quick learner and a team player; I like creating close working relationships with my teammates and accommodating their needs for a greater connection.<br>I believe I have a great work ethic that helps me fulfill my employer's needs and maintain excellent company-client relations. I love reaching the completion stage of every project I start and/or continue.
       </p>
     </div>
