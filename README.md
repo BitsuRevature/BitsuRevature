@@ -39,12 +39,6 @@
   </a>
 </p>
 
-<samp>
-  <a href="https://github.com/bitsumamo/">
-    <img alt="Mika's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bitsumamo&theme=github-compact&hide_border=true" />
-  </a>
-  <br/>
-</samp>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
