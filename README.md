@@ -30,7 +30,7 @@
   <!--tech stack icons-->
   <p width="100%">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,flutter,java,bootstrap,c,cpp,css,docker,spring,express,figma,sqlite,github,html,idea,prisma,js,linux,md,lua,mongodb,mysql,neovim,postman,py,react,redux,tailwind,ts,vscode,jquery" />
+      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,c,cpp,css,docker,sqlite,express,flutter,bootstrap,figma,github,html,idea,prisma,js,linux,lua,mongodb,mysql,neovim,postman,py,react,redux,tailwind,ts,vscode,jquery" />
     </a>
   </p>
 <div>
