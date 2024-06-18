@@ -9,7 +9,8 @@
   <h2 align="center">I am glad you made it to my Github profile!</h2>
   <div>
     <div width="49%">
-      <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+      <!-- <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+    <img align="right" width="300" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
     <div>
     <div aligh="left" width="49%">
       <p>
@@ -41,32 +42,31 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
-<tr border="0">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bitsumamo&theme=dark&show_icons=true&count_private=true&hide_border=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bitsumamo&theme=dark&hide_border=true" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bitsumamo&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  <table align="center">
+  <tr border="0">
+  <td width="50%" align="center">
+    
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bitsumamo&theme=dark&show_icons=true&count_private=true&hide_border=true" />
+    <br></br>
+    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bitsumamo&theme=dark&hide_border=true" /> 
   </td>
-</tr>
-</table>
-<!--- stats (end) -->
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=bitsumamo&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=15&no-bg=true" alt="TROPHY" />
-    </a>
-  
-</div>
+  <td width="50%" align="center">
 
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bitsumamo&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+    
+    </td>
+  </tr>
+  </table>
+  <!--- stats (end) -->
+
+  <!--- trophy (start) -->
+  <div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+        <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=bitsumamo&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=15&no-bg=true" alt="TROPHY" />
+      </a>
+    
+  </div>
 </p>  
 
 <div align=center>
