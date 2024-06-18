@@ -10,7 +10,7 @@
   <div>
     <div width="49%">
       <!-- <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-    <img align="right" width="300" height="100%" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+    <img align="right" width="300" src="https://readme-jokes.vercel.app/api?hideborder&theme=cobalt" alt="Jokes Card" />
     <div>
     <div aligh="left" width="49%">
       <p>
