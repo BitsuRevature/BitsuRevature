@@ -9,8 +9,7 @@
   <h2 align="center">I am glad you made it to my Github profile!</h2>
   <div>
     <div width="49%">
-      <!-- <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-    <img align="right" width="300" src="https://readme-jokes.vercel.app/api?hideborder&theme=cobalt" alt="Jokes Card" />
+      <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
     <div>
     <div aligh="left" width="49%">
       <p>
@@ -74,3 +73,6 @@
     <img src="https://visitcount.itsvg.in/api?id=bitsumamo&label=Profile%20Views&color=12&icon=5&pretty=true" />
   </a>
 </div>      
+<div align=center>
+    <img align="right" width="300" src="https://readme-jokes.vercel.app/api?hideborder&theme=cobalt" alt="Jokes Card" />
+</div>
