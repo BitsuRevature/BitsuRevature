@@ -20,7 +20,7 @@
 
 </div>
 
-## You can connect with me at [LinkedIn](https://www.linkedin.com/in/bitsumamo)
+## You can connect with me at [LinkedIn](https://www.linkedin.com/in/bitsurevature)
 
 <!-- TODO
   Change technologies layuout
@@ -45,14 +45,14 @@
   <tr border="0">
   <td width="50%" align="center">
     
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bitsumamo&theme=dark&show_icons=true&count_private=true&hide_border=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bitsurevature&theme=dark&show_icons=true&count_private=true&hide_border=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bitsumamo&theme=dark&hide_border=true"> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bitsurevature&theme=dark&hide_border=true"> 
   </td>
 
   <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bitsumamo&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bitsurevature&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
     
   </td>
   </tr>
@@ -62,7 +62,7 @@
   <!--- trophy (start) -->
   <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-        <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=bitsumamo&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=15&no-bg=true" alt="TROPHY" />
+        <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=bitsurevature&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=15&no-bg=true" alt="TROPHY" />
       </a>
     
   </div>
@@ -70,7 +70,7 @@
 
 <div align=center>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=bitsumamo&label=Profile%20Views&color=12&icon=5&pretty=true" />
+    <img src="https://visitcount.itsvg.in/api?id=bitsurevature&label=Profile%20Views&color=12&icon=5&pretty=true" />
   </a>
 </div>      
 <div align=center>
